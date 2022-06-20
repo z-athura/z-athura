@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z-athura a student
+<<!--- 👋 Hi, I’m @z-athura a student
 - 👀 I’m interested in programming and eventually be a Developer
 - 🌱 I’m currently learning Java and C++
 - For now, I'm still learning
